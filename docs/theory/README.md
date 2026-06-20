@@ -1,6 +1,6 @@
 # Theory: Sorting Center Simulation
 
-> Hackathon 2026 — Preparation Material
+> Hackathon 2026 — Preparation Material | [Русская версия](./i18n/ru/README.md)
 
 ---
 

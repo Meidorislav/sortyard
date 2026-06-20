@@ -1,5 +1,7 @@
 # PRD — Sorting Center Simulation
 
+> [Русская версия](./i18n/ru/README.md)
+
 | Attribute | Value |
 |---|---|
 | Version | 1.0 |

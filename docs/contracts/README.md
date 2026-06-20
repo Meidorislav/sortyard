@@ -1,7 +1,7 @@
 # API & WebSocket Contracts
 
 > Canonical interface specification between the Go backend and the React frontend.
-> All team members working on either side must follow this document.
+> All team members working on either side must follow this document. | [Русская версия](./i18n/ru/README.md)
 
 ---
 
